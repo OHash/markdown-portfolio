@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of Arnold Schwarzenegger in shorts](https://hips.hearstapps.com/esquireuk.cdnds.net/16/16/1461240265-arnold-schwarzenegger-2.jpg)
