@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I :heart: movies that make you say ***BRUH*** like: 
+- Inception
+- Lord of The Rings
+- The Dark Knight
+- Memento
+- The Eternal Sunshine of the Spotless Mind
